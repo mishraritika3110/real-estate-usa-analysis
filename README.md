@@ -70,3 +70,13 @@ Real-Estate-USA-Analysis/
     ├── page2_price_calculator.png
     └── page3_yearly_monthly.png
 ```
+## Screenshots
+
+### Real Estate Stats Dashboard
+![Page 1](powerbi_snapshots/page1_stats_dashboard.png)
+
+### Price Calculator
+![Page 2](powerbi_snapshots/page2_price_calculator.png)
+
+### Property Sold by Year and Month
+![Page 3](powerbi_snapshots/page3_yearly_monthly.png)
